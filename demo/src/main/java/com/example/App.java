@@ -1,7 +1,7 @@
 package com.example;
 import java.util.Scanner;
 /**
- * Hello world!
+ * exponents with power recursive
  *
  */
 public class App 
